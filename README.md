@@ -1,8 +1,8 @@
 # Org-HTML-Slideshow
 
-You have an outline written in Emacs Org-Mode.  Export it to HTML. Add
-Org-HTML-Slideshow, and you have an interactive slide presentation
-that runs in a web browser!
+You have an outline written in Emacs Org-Mode . Export it to HTML ,then add
+Org-HTML-Slideshow, finally you have an interactive slide presentation
+that is ready to runs in your web browser!
 
 Supports anything Org-Mode can export: bulleted lists, code blocks,
 images, etc.
